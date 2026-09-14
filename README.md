@@ -1,1 +1,1 @@
-[code]-multiple +cl_fovScale 1.7 +fps_max 240 -w 1920 -h 1080 +cl_is_softened_locale 1 +building_cubemaps 1 +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0[/code]
+-multiple +cl_fovScale 1.7 +fps_max 240 -w 1920 -h 1080 +cl_is_softened_locale 1 +building_cubemaps 1 +mat_letterbox_aspect_goal 0 +mat_letterbox_aspect_threshold 0
